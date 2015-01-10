@@ -2,8 +2,8 @@
 	/*
 	 * Plugin Name: SEO Bulk Editor
 	 * Description: View and edit All-in-One SEO Pack Titles on one page and Meta Descriptions on another.
-	 * Author: KetLabs
-	 * Author URI: http://www.ketlabs.com
+	 * Author: NCiphers
+	 * Author URI: http://www.nciphers.com
 	 * Version: 1.0.0
 	 */
 
