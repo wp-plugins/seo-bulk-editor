@@ -1,5 +1,5 @@
 === SEO Bulk Editor ===
-Contributors: Ivan Milkoff
+Contributors: Atanas Krachev
 Tags: All-In-One SEO Pack, All in One SEO, SEO for WordPress, bulk edit, bulk edit titles, bulk edit descriptions, mass edit, bulk seo, WordPress SEO, SEO, seo title, meta description, meta title
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=akrachev%40gmail%2ecom&lc=GB&item_name=SEO%20Bulk%20Editor&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG_global%2egif%3aNonHostedGuest
 Author: NCiphers
