@@ -30,11 +30,6 @@ Increase your efficiency in managing SEO Titles and Meta Descriptions with SEO B
 * User defined pagination
 * Save one at a time, or save all changes with one click
 
-= Upcoming Features =
-* Live character counter for bulk title and meta description editors
-* Edit Title tags and meta descriptions of the "All-in-One SEO" plugin
-
-
 = Requirements =
 
 This Plugin requires [All-in-One SEO](https://wordpress.org/plugins/all-in-one-seo-pack/)
