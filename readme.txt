@@ -51,9 +51,9 @@ Log in, hover over "Settings" and click "SEO Bulk Title Editor"
 
 Log in, hover over "Settings" and click "SEO Bulk Description Editor"
 
-= How come I can't find "SEO" when I'm Logged in? =
+= Does the plugin work without All-in-One SEO Pack? =
 
-Make sure you have [All-in-One SEO](https://wordpress.org/plugins/all-in-one-seo-pack/)
+Yes, but it does nothing functional for you in that case. Make sure you have [All-in-One SEO](https://wordpress.org/plugins/all-in-one-seo-pack/)
 
 = How do I remove an SEO Title/Meta Description? =
 Clear out the "New All-in-One SEO Title" textbox or the "New All-in-One Meta Description" textarea, then click save. You will receive a warning before the SEO Title/Meta Description is deleted.
